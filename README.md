@@ -1,4 +1,6 @@
-# Lance Randall Gamier's Academic Github Account for Research Papers
+### Lance Randall Gamier's Academic Github Account for Research Papers
+
+### For my Other Github Acount on Data Science, check out this link: [https://github.com/March-To-The-Sea]
 
 <!--
 **Lance-Gamier/Lance-Gamier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

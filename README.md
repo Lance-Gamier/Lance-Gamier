@@ -1,4 +1,4 @@
-### Hi there 👋
+# Lance Randall Gamier's Academic Github Account for Research Papers
 
 <!--
 **Lance-Gamier/Lance-Gamier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
